@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <title>Application de réservation</title>
+    </head>
+    <body>
+        <div id="container">
+            <div id="cardContainer">
+                <div class="card">
+                    <form>
+                        <div class="row">
+                            <label>Date :</label>
+                            <select class="dates-select" id="dates" name="dates" required>
+                                <option value="" disabled selected hidden>Choisissez une date</option>
+                                <option value="date1">Date 1</option>
+                                <option value="date2">Date 2</option>
+                                <option value="date3">Date 3</option>
+                                <option value="date4">Date 4</option>
+                                <option value="date5">Date 5</option>
+                            </select>
+                        </div>
+                        <div class="row">
+                            <label>Nombre de places :</label>
+                            <input type="number" id="seats" name="seats" required />
+                        </div>
+                    </form>
+                    <button id="delete" onclick="deleteCard(this)">Supprimer</button>
+                </div>
+            </div>
+            <button id="add" onclick="addCard()">Ajouter</button>
+            <button type="submit" id="book">Réserver</button>
+        </div>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>
