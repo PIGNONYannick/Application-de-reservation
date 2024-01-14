@@ -8,11 +8,11 @@ L'utilisateur est face à un formulaire de réservation. Il peut choisir une dat
 
 ### Fait
 
-Étape 1 : Écrire le document HTML (formulaire, bouttons...)
-Étape 2 : Écrire le CSS
-Étape 3 : Écrire la fonction 'addCard()' appelée par l'attribut onclick sur le bouton ajouter dans le fichier HTML
-Étape 4 :  Écrire la fonction 'deleteCard()' appelée par l'attribut onclick sur le bouton supprimer dans le fichier HTML
-Étape 5 : Écrire la fonction permettant de masquer les dates déjà sélectionnées
+Étape 1 : Écrire le document HTML (formulaire, bouttons...)  
+Étape 2 : Écrire le CSS  
+Étape 3 : Écrire la fonction 'addCard()' appelée par l'attribut onclick sur le bouton ajouter dans le fichier HTML  
+Étape 4 :  Écrire la fonction 'deleteCard()' appelée par l'attribut onclick sur le bouton supprimer dans le fichier HTML  
+Étape 5 : Écrire la fonction permettant de masquer les dates déjà sélectionnées  
 
 ### En cours
 
