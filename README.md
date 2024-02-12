@@ -23,7 +23,8 @@ L'utilisateur est face à un formulaire de réservation. Il peut choisir une dat
 Étape 3 : Écrire la fonction 'addCard()' appelée par l'attribut onclick sur le bouton ajouter dans le fichier HTML  
 Étape 4 :  Écrire la fonction 'deleteCard()' appelée par l'attribut onclick sur le bouton supprimer dans le fichier HTML  
 Étape 5 : Écrire la fonction permettant de masquer les dates déjà sélectionnées  
+Étape 6 : Écrire la fonction permettant d'activer les boutons "Ajouter" et "Réserver" lorsque les champs sont remplis  
 
-### En cours
+### À corriger
 
-Étape 6 : Écrire la fonction permettant de désactiver le bouton ajouter lorsqu'il n'y a plus de date à sélectionner
+Étape 7 : Écrire la fonction permettant de désactiver le bouton ajouter lorsqu'il n'y a plus de date à sélectionner
